@@ -1,0 +1,10 @@
+(...)
+
+    <!-- [BEGIN HSQLDB DATABASES] -->
+    <context-param>
+        <param-name>hsqldb-databases</param-name>
+        <param-value>sampledata@../../data/hsqldb/sampledata,hibernate@../../data/hsqldb/hibernate,quartz@../../data/hsqldb/quartz,foodmart@../../data/hsqldb/foodmart</param-value>
+    </context-param>
+    <!-- [END HSQLDB DATABASES] -->
+
+(...)
